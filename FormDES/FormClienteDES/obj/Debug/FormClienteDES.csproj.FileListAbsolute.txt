@@ -1,0 +1,21 @@
+C:\Users\scmbs\OneDrive\Documentos\Etec 2DES\DES\FormClienteDES\FormClienteDES\bin\Debug\FormClienteDES.exe.config
+C:\Users\scmbs\OneDrive\Documentos\Etec 2DES\DES\FormClienteDES\FormClienteDES\bin\Debug\FormClienteDES.exe
+C:\Users\scmbs\OneDrive\Documentos\Etec 2DES\DES\FormClienteDES\FormClienteDES\bin\Debug\FormClienteDES.pdb
+C:\Users\scmbs\OneDrive\Documentos\Etec 2DES\DES\FormClienteDES\FormClienteDES\obj\Debug\FormClienteDES.csproj.AssemblyReference.cache
+C:\Users\scmbs\OneDrive\Documentos\Etec 2DES\DES\FormClienteDES\FormClienteDES\obj\Debug\FormClienteDES.csproj.SuggestedBindingRedirects.cache
+C:\Users\scmbs\OneDrive\Documentos\Etec 2DES\DES\FormClienteDES\FormClienteDES\obj\Debug\FormClienteDES.Form1.resources
+C:\Users\scmbs\OneDrive\Documentos\Etec 2DES\DES\FormClienteDES\FormClienteDES\obj\Debug\FormClienteDES.Properties.Resources.resources
+C:\Users\scmbs\OneDrive\Documentos\Etec 2DES\DES\FormClienteDES\FormClienteDES\obj\Debug\FormClienteDES.csproj.GenerateResource.cache
+C:\Users\scmbs\OneDrive\Documentos\Etec 2DES\DES\FormClienteDES\FormClienteDES\obj\Debug\FormClienteDES.csproj.CoreCompileInputs.cache
+C:\Users\scmbs\OneDrive\Documentos\Etec 2DES\DES\FormClienteDES\FormClienteDES\obj\Debug\FormClienteDES.exe
+C:\Users\scmbs\OneDrive\Documentos\Etec 2DES\DES\FormClienteDES\FormClienteDES\obj\Debug\FormClienteDES.pdb
+C:\Users\Aluno\Source\Repos\PedroLeGarcia\FormDES\FormClienteDES\bin\Debug\FormClienteDES.exe.config
+C:\Users\Aluno\Source\Repos\PedroLeGarcia\FormDES\FormClienteDES\bin\Debug\FormClienteDES.exe
+C:\Users\Aluno\Source\Repos\PedroLeGarcia\FormDES\FormClienteDES\bin\Debug\FormClienteDES.pdb
+C:\Users\Aluno\Source\Repos\PedroLeGarcia\FormDES\FormClienteDES\obj\Debug\FormClienteDES.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\PedroLeGarcia\FormDES\FormClienteDES\obj\Debug\FormClienteDES.Form1.resources
+C:\Users\Aluno\Source\Repos\PedroLeGarcia\FormDES\FormClienteDES\obj\Debug\FormClienteDES.Properties.Resources.resources
+C:\Users\Aluno\Source\Repos\PedroLeGarcia\FormDES\FormClienteDES\obj\Debug\FormClienteDES.csproj.GenerateResource.cache
+C:\Users\Aluno\Source\Repos\PedroLeGarcia\FormDES\FormClienteDES\obj\Debug\FormClienteDES.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\PedroLeGarcia\FormDES\FormClienteDES\obj\Debug\FormClienteDES.exe
+C:\Users\Aluno\Source\Repos\PedroLeGarcia\FormDES\FormClienteDES\obj\Debug\FormClienteDES.pdb
